@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Hassan
 
-<!--
-**Jilanha/Jilanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into cybersecurity after years of experience in tech, leadership, and operations.
 
-Here are some ideas to get you started:
+🎯 **Current Goal**: Break into cybersecurity with a focus on blue team roles such as SOC Analyst or GRC Specialist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Currently Learning**:
+- Google Cybersecurity Professional Certificate (Coursera)
+- Hands-on labs with TryHackMe and Splunk
+- Bash scripting, Linux command line, and basic Python
+
+📂 **This GitHub Will Feature**:
+- Lab reports and writeups
+- Threat analysis projects
+- Incident response simulations
+- Notes and learning summaries
+
+🔐 **Why Cybersecurity?**
+Because I believe protecting data, systems, and people is the next essential frontier — and I want to be part of that defense.
+
+---
+
+📬 **Let’s connect!**  
+You can find me on [LinkedIn](https://www.linkedin.com/in/jilanha)  
+I’m always open to connect with fellow learners, mentors, and cybersecurity professionals.
