@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Hassan
 
+> 💬 **Professional Statement**  
+> I’m a tech-focused professional with over 15 years of leadership experience in operations and systems-based problem solving, now transitioning into cybersecurity. I value integrity and risk awareness, and I’m developing hands-on skills in threat analysis and security operations to help organizations protect their data, infrastructure, and reputation.
 I'm transitioning into cybersecurity after years of experience in tech, leadership, and operations.
 
 🎯 **Current Goal**: Break into cybersecurity with a focus on blue team roles such as SOC Analyst or GRC Specialist.
